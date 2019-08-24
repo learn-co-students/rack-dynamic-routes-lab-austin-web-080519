@@ -1,7 +1,7 @@
 require_relative 'item.rb'
 class Application
 
-    @@items = [Item.new("meow", "4.20")]
+    @@items = []
 
 
 
